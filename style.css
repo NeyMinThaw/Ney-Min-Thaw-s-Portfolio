@@ -427,9 +427,8 @@ nav .bi{
     display: none;
 }
 @media only screen and (max-width: 600px){
-    .header{
+    #header{
         background-image: url(phone-background.jpg);
-        width: 100%;
     }
     .header-text{
         margin-top: 100%;
